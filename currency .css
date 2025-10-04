@@ -24,6 +24,12 @@ body {
   padding: 20px;
   font-family: "Poppins", sans-serif;
 }
+body {
+  background-image: url("https://i.postimg.cc/c4LVgJnq/password-generator.png");
+  background-size: cover;       /* makes image cover the whole screen */
+  background-repeat: no-repeat; /* prevents tiling */
+  background-position: center;  /* centers the image */
+}
 
 .container {
   width: 100%;
